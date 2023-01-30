@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gui
+- 👋 Hi, I’m Guillaume
 - 👀 I’m interested in front end development in an creative & interactive way.
 - 🏹 I also work on 2D/3D Motion Design, Graphic design & illustration projects.
-- 🌱 I’m currently learning frameworks like React
+- 🌱 I’m currently learning frameworks like React, Next.js ...
 - 📫 Visit my website www.guillaume-sauteur.ch to see more projects
 
 <!---
